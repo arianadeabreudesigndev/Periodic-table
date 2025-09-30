@@ -88,4 +88,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Link do Projeto: [https://github.com/ArianaDeAbreu/chemical-table](https://github.com/ArianaDeAbreu/chemical-table)
 
-Live Demo: [[https://github.com/ArianaDeAbreu/chemical-table](https://periodic-table-ariana.netlify.app)
+Live Demo: [https://github.com/ArianaDeAbreu/chemical-table](https://periodic-table-ariana.netlify.app)
