@@ -80,16 +80,6 @@ chemical-table/
   - Layout adaptativo
   - Otimização para modo paisagem em dispositivos móveis
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-1. Fazer um fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/AlgumaNovaFuncionalidade`)
-3. Commit suas mudanças (`git commit -m 'Adiciona Tal Nova Funcionalidade'`)
-4. Push para a branch (`git push origin feature/AlgumaNovaFuncionalidade`)
-5. Abrir um Pull Request
-
 ## 📄 Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
@@ -97,4 +87,5 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ## 📧 Contato
 
 Link do Projeto: [https://github.com/ArianaDeAbreu/chemical-table](https://github.com/ArianaDeAbreu/chemical-table)
+
 Live Demo: [[https://github.com/ArianaDeAbreu/chemical-table](https://periodic-table-ariana.netlify.app)
