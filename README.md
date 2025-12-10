@@ -49,20 +49,6 @@ Abra o arquivo `index.html` em seu navegador.
 - Use o botão de fechar (×) para retornar à tabela  
 - Em dispositivos móveis, gire para o modo paisagem para melhor visualização  
 
-📦 **Estrutura do Projeto**
-chemical-table/
-├── assets/
-│ ├── css/
-│ │ └── style.css
-│ ├── js/
-│ │ ├── element-info.js
-│ │ └── orientation.js
-│ └── img/
-│ ├── elements/
-│ └── icons/
-├── index.html
-└── README.md
-
 🔧 **Otimizações Implementadas**  
 - **Lazy Loading:** Carregamento sob demanda das imagens  
 - **Preloader:** Feedback visual durante o carregamento inicial  
