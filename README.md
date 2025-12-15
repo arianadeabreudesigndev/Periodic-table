@@ -1,8 +1,8 @@
 # Tabela Periódica Interativa
 
-> **short_description:** Tabela periódica interativa e responsiva com visual moderno.
+> **short_description:** Tabela periódica interativa e responsiva com visual moderno;
 >
-> **full_description:** Uma tabela periódica totalmente interativa, otimizada para desempenho e responsividade, oferecendo consulta rápida, visualização intuitiva e informações detalhadas sobre cada elemento químico.
+> **full_description:** Uma tabela periódica totalmente interativa, otimizada para desempenho e responsividade, oferecendo consulta rápida, visualização intuitiva e informações detalhadas sobre cada elemento químico;
 
 ---
 
